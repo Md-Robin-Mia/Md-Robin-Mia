@@ -44,15 +44,15 @@
 ---
 
 ### GitHub Stats
-![Md Robin Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafatashik0-afk&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafatashik0-afk&layout=compact&theme=radical)  
+![Md Robin Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Robin-Mia&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Robin-Mia&layout=compact&theme=radical)  
 
 ---
 
 ### Dynamic Stats & Badges
-![Md Robin Mia's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafatashik0-afk&theme=radical)  
+![Md Robin Mia's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-Robin-Mia&theme=radical)  
 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Python%20%7C%20AI%2FML-blue)  
-![Visitor Count](https://profile-counter.glitch.me/shafatashik0-afk/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Md-Robin-Mia/count.svg)
 
 ---
 
